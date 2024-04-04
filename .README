@@ -1,0 +1,11 @@
+# Enterprise Software Testing Task Tracker
+
+The Software-Testing Task Tracker is a comprehensive task management application designed for software testing teams . This application provides a centralized platform for managing software testing tasks, facilitating collaboration, tracking progress, and ensuring efficient testing workflows.
+
+## Features
+
+### Core Features
+1. Add and manage testing tasks with descriptions, due dates, priorities, platforms, assignees, and statuses.
+2. Mark tasks as completed and track time spent on each task.
+3. View all tasks and filter by completion status, priority, platform, assignee, and status.
+4. Save tasks to a file and load tasks from a file for data persistence.
